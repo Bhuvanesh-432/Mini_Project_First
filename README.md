@@ -3,8 +3,8 @@
 # **1. Title Page**
 
 **Project Title:** Movie Data Analysis and Visualization Using Streamlit\
-**Author:** [Your Name]\
-**Date:** [Date]
+**Author:** Bhuvanesh Thangaraj
+**Date:** 27-03-2025
 
 ---
 
